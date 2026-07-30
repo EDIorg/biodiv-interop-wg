@@ -1,0 +1,54 @@
+# Curator configuration for the ecocomDP conversion agent.
+#
+# Copy and edit per curator. The `contact` block is written into the generated
+# script's `additional_contact` data frame and passed to ecocomDP::create_eml().
+
+contact:
+  givenName: Data
+  surName: Curator
+  organizationName: Environmental Data Initiative
+  electronicMailAddress: curator@edirepository.org
+
+# Credentials used by ecocomDP::create_eml() for the provenance/annotation user.
+eml:
+  user_id: ecocomdp
+  user_domain: EDI
+  basis_of_record: HumanObservation   # or MachineObservation
+
+# EDI repository access, used by tools/edi-fetch.py to DOWNLOAD a source package
+# from a URL or packageId (read-only — the agent still never uploads, publishes,
+# or runs R). Most EDI data is public and needs no credentials; the auth block
+# is only for private or embargoed packages.
+#
+# SECURITY: do not commit a real token or password. Prefer the *_env fields,
+# which name an environment variable holding the secret; the inline fields exist
+# only as a fallback.
+repository:
+  base_url: https://pasta.lternet.edu/package
+  auth:
+    # EDI PASTA authenticates with your EDI account over HTTP Basic auth, or with
+    # an auth token from https://auth.edirepository.org. Supply Basic (user +
+    # password) OR a token — not both. Leave all null for public packages.
+    user: null
+    user_env: null              # e.g. EDI_USER
+    password: null
+    password_env: EDI_PASSWORD  # env var holding the password
+    token: null                 # Insert API key from auth.edirepository.org
+    token_env: EDI_TOKEN        # env var holding an auth token
+
+# Workflow policy. These encode curator decisions from DESIGN.md §10 —
+# change them here rather than in the skills.
+policy:
+  # derived_id is never proposed by the agent; the curator assigns it.
+  derived_id_assignment: manual
+
+  # A `suitable-with-caveats` verdict stops for confirmation before the spec
+  # is designed. Set to `proceed` to continue automatically.
+  on_suitable_with_caveats: stop
+
+  # Whether the agent may ever decide recapture / individual-deduplication
+  # semantics. `escalate` means always ask.
+  recapture_handling: escalate
+
+  # Never emit an annotation URI that is not present in kb/lexicon-*.csv.
+  annotation_uris: lexicon_only

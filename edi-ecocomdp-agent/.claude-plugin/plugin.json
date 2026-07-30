@@ -1,0 +1,9 @@
+{
+  "name": "ecocomdp-agent",
+  "description": "Curator-driven workflow for converting EDI environmental datasets to the ecocomDP data model: inspect a downloaded package, assess suitability, design a mapping spec, and render an R conversion script for review.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Environmental Data Initiative"
+  },
+  "keywords": ["ecocomDP", "EDI", "EML", "biodiversity", "data-harmonization"]
+}

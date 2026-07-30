@@ -1,0 +1,74 @@
+variable_name,mapped_system,mapped_id,mapped_label,n_uses,seen_in
+count,Darwin Core,http://rs.tdwg.org/dwc/terms/individualCount,individualCount,3,knb-lter-hbr.126;knb-lter-hbr.178;knb-lter-hbr.81
+Comments,Darwin Core,http://rs.tdwg.org/dwc/terms/eventRemarks,eventRemarks,2,knb-lter-hbr.178;knb-lter-pie.404
+Distance,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00001710,water sample volume,2,knb-lter-hbr.178;knb-lter-pie.404
+Sex,Darwin Core,http://rs.tdwg.org/dwc/terms/sex,sex,2,knb-lter-hbr.178;knb-lter-sgs.137
+BottleName,Darwin Core,http://rs.tdwg.org/dwc/terms/materialSampleID,materialSampleID,1,knb-lter-pie.404
+CARDBOARD,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00002372,trap identifier,1,knb-lter-hbr.126
+DIST,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00001710,distance,1,knb-lter-pie.405
+Detection.Method,Darwin Core,http://rs.tdwg.org/dwc/terms/samplingProtocol,samplingProtocol,1,knb-lter-hbr.178
+ELEV_BAND,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00001567,elevation,1,knb-lter-hbr.126
+GEARNAME,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00001591,type of trap,1,knb-lter-ntl.356
+GEARNAME,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00002527,data collection equipment,1,knb-lter-ntl.357
+ID,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00001217,Tag Number,1,knb-lter-vcr.67
+LAT,Darwin Core,http://rs.tdwg.org/dwc/terms/decimalLatitude,decimalLatitude,1,knb-lter-pie.405
+LON,Darwin Core,http://rs.tdwg.org/dwc/terms/decimalLongitude,decimalLongitude,1,knb-lter-pie.405
+Latitude,Darwin Core,http://rs.tdwg.org/dwc/terms/decimalLatitude,decimalLatitude,1,knb-lter-pie.404
+Longitude,Darwin Core,http://rs.tdwg.org/dwc/terms/decimalLongitude,decimalLongitude,1,knb-lter-pie.404
+Minute,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00002238,minutes elapsed,1,knb-lter-hbr.178
+NUMBER COUNTED,Darwin Core,http://rs.tdwg.org/dwc/terms/individualCount,individualCount,1,knb-lter-pie.405
+NUMBERperTOW,Darwin Core,http://rs.tdwg.org/dwc/terms/individualCount,individualCount,1,knb-lter-pie.405
+Night,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00002123,days elapsed,1,knb-lter-sgs.137
+NumberIndividuals,Darwin Core,http://rs.tdwg.org/dwc/terms/individualCount,individualCount,1,knb-lter-hbr.82
+Observer,Darwin Core,http://rs.tdwg.org/dwc/terms/recordedBy,recordedBy,1,knb-lter-hbr.178
+Period,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00002953,sample measurement period,1,knb-lter-hbr.178
+Plot,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00002432,plot identifier,1,knb-lter-hbr.82
+REPLICATE,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00002989,replicate identifier,1,knb-lter-fce.1203
+Replicate,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00002989,replicate identifier,1,knb-lter-hbr.178
+SAL,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00001164,Water Salinity,1,knb-lter-pie.405
+SAMPLE NAME,Darwin Core,http://rs.tdwg.org/dwc/terms/materialSampleID,materialSampleID,1,knb-lter-pie.405
+SEX,Darwin Core,http://rs.tdwg.org/dwc/terms/sex,sex,1,knb-lter-vcr.67
+SITE,Darwin Core,http://purl.org/dc/terms/Location,Location,1,knb-lter-pie.405
+Salinity,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00001164,Water Salinity,1,knb-lter-pie.404
+Sample,Darwin Core,http://rs.tdwg.org/dwc/terms/eventID,eventID,1,knb-lter-sgs.137
+SampleName,Darwin Core,http://rs.tdwg.org/dwc/terms/materialSampleID,materialSampleID,1,knb-lter-pie.404
+SampleNumber,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00002989,replicate identifier,1,knb-lter-hbr.82
+Session,Darwin Core,http://rs.tdwg.org/dwc/terms/eventID,eventID,1,knb-lter-sgs.137
+Stapp,Darwin Core,http://rs.tdwg.org/dwc/terms/eventRemarks,eventRemarks,1,knb-lter-sgs.137
+SubsampleName,Darwin Core,http://rs.tdwg.org/dwc/terms/materialSampleID,materialSampleID,1,knb-lter-pie.404
+TEMP,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00001227,Water Temperature,1,knb-lter-pie.404
+TEMP,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00001559,estuary water temperature,1,knb-lter-pie.405
+TIME,Darwin Core,http://rs.tdwg.org/dwc/terms/eventTime,eventTime,1,knb-lter-pie.405
+TL,Darwin Core,http://rs.tdwg.org/dwc/terms/measurementType,measurementType,1,knb-lter-ntl.357
+TOW TIME,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00002953,sample measurement period,1,knb-lter-pie.405
+Tag,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00001217,Tag Number,1,knb-lter-sgs.137
+Taxon,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00002490,species code,1,knb-lter-hbr.82
+Time,Darwin Core,http://rs.tdwg.org/dwc/terms/eventTime,eventTime,1,knb-lter-hbr.178
+TotalChlA,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00000516,Chlorophyll-a Concentration,1,knb-lter-pie.404
+Trap,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00002372,trap identifier,1,knb-lter-sgs.137
+TreeSpecies,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00002490,species code,1,knb-lter-hbr.82
+VOLUME,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00002225,water sample volume,1,knb-lter-pie.405
+Veg,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00002207,type of vegetation,1,knb-lter-sgs.137
+Volume,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00002225,water sample volume,1,knb-lter-pie.404
+WEIGHT,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00001150,Non-Plant Material Biomass,1,knb-lter-vcr.67
+WT,The Ecosystem Ontology,http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Mass,Mass,1,knb-lter-sgs.137
+Waterbody_Name,Darwin Core,http://rs.tdwg.org/dwc/terms/waterBody,waterBody,1,knb-lter-ntl.356
+abovegroundBiomassDensity,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00002892,aboveground biomass density,1,knb-lter-fce.1203
+avg_ind_per_m2,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00001168,Areal Density Measurement Type,1,knb-lter-ntl.14
+avg_ind_per_m3,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00001199,Volumetric Density Measurement Type,1,knb-lter-ntl.14
+avghits,Darwin Core,http://rs.tdwg.org/dwc/terms/organismQuantity,organismQuantity,1,knb-lter-bnz.502
+biomass,Darwin Core,http://rs.tdwg.org/dwc/terms/organismQuantity,organismQuantity,1,knb-lter-bnz.502
+block,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00002601,block identifier,1,knb-lter-bnz.502
+chlorophyll relative abundance,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00002280,chlorophyll relative abundance,1,knb-lter-pie.404
+comment,Darwin Core,http://rs.tdwg.org/dwc/terms/organismRemarks,organismRemarks,1,knb-lter-hbr.81
+density,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00001169,Non-Plant Material Count Aerial Density,1,knb-lter-nin.6
+depth,Darwin Core,http://rs.tdwg.org/dwc/terms/verbatimDepth,verbatimDepth,1,knb-lter-ntl.14
+distance,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00001710,distance,1,knb-lter-sev.23
+dry,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00002426,treatment measurement type,1,knb-lter-bnz.502
+fence,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00002558,fence identifier,1,knb-lter-bnz.502
+individual_rabbit,Darwin Core,http://rs.tdwg.org/dwc/terms/individualCount,individualCount,1,knb-lter-sev.23
+mileage,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00003023,location along transect or plot,1,knb-lter-sev.23
+notes,Darwin Core,http://rs.tdwg.org/dwc/terms/eventRemarks,eventRemarks,1,knb-lter-sgs.137
+nreps,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00002764,number of samples taken,1,knb-lter-ntl.14
+plot,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00002432,plot identifier,1,knb-lter-bnz.502
+rep,The Ecosystem Ontology,http://purl.dataone.org/odo/ECSO_00002989,replicate identifier,1,knb-lter-ntl.14

@@ -1,0 +1,41 @@
+label,uri,n_uses,seen_in
+Population,http://purl.dataone.org/odo/ECSO_00000311,8,knb-lter-hbr.178;knb-lter-hbr.82;knb-lter-ntl.14;knb-lter-ntl.356;knb-lter-ntl.357;knb-lter-sev.23;knb-lter-sgs.137;knb-lter-vcr.67
+species abundance,http://purl.dataone.org/odo/ECSO_00001688,4,knb-lter-fce.1203;knb-lter-ntl.14;knb-lter-ntl.356;knb-lter-sev.23
+Mammalia,http://purl.obolibrary.org/obo/NCBITaxon_40674,3,knb-lter-sev.23;knb-lter-sgs.137;knb-lter-vcr.67
+ecological community,http://purl.obolibrary.org/obo/PCO_0000002,3,knb-lter-hbr.81;knb-lter-pie.404;knb-lter-pie.405
+ecological community,http://purl.obolibrary.org/obo/NCBITaxon_3193,3,knb-lter-ntl.356;knb-lter-sev.23;knb-lter-sgs.137
+ecosystem,http://purl.obolibrary.org/obo/ENVO_01001110,3,knb-lter-fce.1203;knb-lter-hbr.178;knb-lter-nin.6
+lake,http://purl.obolibrary.org/obo/ENVO_00000020,3,knb-lter-ntl.14;knb-lter-ntl.356;knb-lter-ntl.357
+Manipulative experiment,http://purl.dataone.org/odo/ECSO_00000506,2,knb-lter-bnz.502;knb-lter-hbr.126
+grassland ecosystem,http://purl.obolibrary.org/obo/ENVO_01001206,2,knb-lter-sev.23;knb-lter-sgs.137
+species,http://purl.dataone.org/odo/ECSO_00000313,2,knb-lter-ntl.14;knb-lter-ntl.357
+Active Layer Thickness MOV,http://purl.dataone.org/odo/ECSO_00000068,1,knb-lter-bnz.502
+Aves,http://purl.obolibrary.org/obo/NCBITaxon_8782,1,knb-lter-hbr.178
+Biomass,http://purl.dataone.org/odo/ECSO_00001114,1,knb-lter-bnz.502
+Community,http://purl.dataone.org/odo/ECSO_00000310,1,knb-lter-bnz.502
+Lepidoptera,http://purl.obolibrary.org/obo/NCBITaxon_7088,1,knb-lter-hbr.82
+Metazoa,http://purl.obolibrary.org/obo/NCBITaxon_33208,1,knb-lter-hbr.178
+Primary Production Carbon Flux,http://purl.dataone.org/odo/ECSO_00000015,1,knb-lter-fce.1203
+animal trap,http://purl.obolibrary.org/obo/ENVO_01000975,1,knb-lter-vcr.67
+calcium concentration,http://purl.dataone.org/odo/ECSO_00001772,1,knb-lter-hbr.126
+chlorophyll relative abundance,http://purl.dataone.org/odo/ECSO_00002280,1,knb-lter-pie.404
+community,http://purl.dataone.org/odo/ECSO_00000310,1,knb-lter-ntl.357
+desert,http://purl.obolibrary.org/obo/ENVO_01001357,1,knb-lter-sev.23
+elevation,http://purl.obolibrary.org/obo/PATO_0001687,1,knb-lter-hbr.178
+embryophyta,http://purl.obolibrary.org/obo/NCBITaxon_3193,1,knb-lter-bnz.502
+environmental monitoring,http://purl.obolibrary.org/obo/ENVO_02500041,1,knb-lter-fce.1203
+estuary,http://purl.obolibrary.org/obo/ENVO_00000045,1,knb-lter-pie.404
+fence,http://purl.obolibrary.org/obo/ENVO_01000468,1,knb-lter-bnz.502
+forested area,http://purl.obolibrary.org/obo/ENVO_00000111,1,knb-lter-hbr.178
+fresh water,http://purl.obolibrary.org/obo/ENVO_00002011,1,knb-lter-fce.1203
+manipulative experiment,http://purl.dataone.org/odo/ECSO_00000506,1,knb-lter-fce.1203
+organism,http://purl.obolibrary.org/obo/OBI_0100026,1,knb-lter-hbr.82
+permafrost,http://purl.obolibrary.org/obo/ENVO_00000134,1,knb-lter-bnz.502
+permafrost active layer,http://www.purl.dataone.org/odo/ECSO_00010089,1,knb-lter-bnz.502
+permafrost drying treatment,http://purl.dataone.org/odo/ECSO_00002441,1,knb-lter-bnz.502
+phytoplankton,http://purl.dataone.org/odo/ECSO_00000504,1,knb-lter-pie.404
+sea grass bed,http://purl.obolibrary.org/obo/ENVO_01000059,1,knb-lter-fce.1203
+shrubland biome,http://purl.obolibrary.org/obo/ENVO_01000176,1,knb-lter-sgs.137
+tundra biome,http://purl.obolibrary.org/obo/ENVO_01000180,1,knb-lter-bnz.502
+warming treatment,http://purl.dataone.org/odo/ECSO_00002890,1,knb-lter-bnz.502
+wetland area,http://purl.obolibrary.org/obo/ENVO_00000043,1,knb-lter-fce.1203

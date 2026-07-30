@@ -1,0 +1,4 @@
+script,variable_name,issue,mapped_id_raw,mapped_label_raw
+knb-lter-pie.404,Latitude,id/label swapped,decimalLatitude,http://rs.tdwg.org/dwc/terms/decimalLatitude
+knb-lter-pie.405,ABUNDANCE,mapped_id is not a URI — dropped,"The density, or more precisely, the volumetric count density of entities per unit volume.",Number Volumetric Density
+knb-lter-pie.405,LAT,id/label swapped,decimalLatitude,http://rs.tdwg.org/dwc/terms/decimalLatitude
