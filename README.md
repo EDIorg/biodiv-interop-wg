@@ -7,3 +7,4 @@ Home repository for a collaborative working group between LTER, NEON, NASA, GBIF
 1. Files for a large language model based agentic workflow to convert ecological datasets to ecocomDP format.
 2. that is all so far...
 
+
